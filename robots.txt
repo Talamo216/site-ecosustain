@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ecosustain.github.io/sitemap.xml
+Sitemap: https://talamo216.github.io/ecosustain.github.io/sitemap.xml
