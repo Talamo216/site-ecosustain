@@ -1,11 +1,13 @@
 ---
 layout: page
-title: news
+title: News
 permalink: /news/
 nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: News
+    permalink: /news
   - title: Jobs
     permalink: /jobs
   - title: Events
