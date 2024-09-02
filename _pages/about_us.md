@@ -3,7 +3,7 @@ layout: page
 title: About us
 permalink: /about/
 nav: true
-nav_order: 2
+nav_order: 6
 dropdown: true
 children:
   - title: About us

@@ -3,16 +3,18 @@ layout: page
 title: News
 permalink: /news/
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
   - title: News
-    permalink: /news
+    permalink: /news/
   - title: Jobs
-    permalink: /jobs
+    permalink: /jobs/
   - title: Events
-    permalink: /events
+    permalink: /events/
   - title: Meetings
-    permalink: /meetings
+    permalink: /meetings/
+  - title: Press
+    permalink: /press/
 ---
 
