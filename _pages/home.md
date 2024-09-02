@@ -1,6 +1,7 @@
 ---
 layout: about
 title: ECO Sustain
+menutitle: Home
 permalink: /
 subtitle: Digital Technology for the Environment
 
