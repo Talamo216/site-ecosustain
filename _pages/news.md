@@ -11,6 +11,4 @@ Jobs
 
 Events
 
-Meetings
-
 Press

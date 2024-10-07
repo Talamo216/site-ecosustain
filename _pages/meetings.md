@@ -2,8 +2,8 @@
 layout: page
 permalink: /meetings/
 title: Meetings
-description: Project meetings
-nav: false
+nav: true
+nav_order: 2
 ---
 
-Our meetings
+Meetings
