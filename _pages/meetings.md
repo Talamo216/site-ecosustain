@@ -28,7 +28,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>16:30 &#8211; 18:30</b></td>
-<td><a href="https://drive.google.com/drive/folders/1T4L-x90Sqh37L3rbu9p9l5HJ7S3kx50M"target="_blank"><b>Session 1 &#8211; Smart cities (chair: Fábio Costa)</b></a></td>
+<td><a href="https://drive.google.com/drive/folders/1T4L-x90Sqh37L3rbu9p9l5HJ7S3kx50M" target="_blank"><b>Session 1 &#8211; Smart cities (chair: Fábio Costa)</b></a></td>
 </tr>
 <tr>
 <td rowspan=6></td>
@@ -102,7 +102,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>16:30 &#8211; 18:30</b></td>
-<td><a href="https://drive.google.com/drive/folders/1q4VecuApLsR1_U1jeQ_s-68nb_2zAg5s"target="_blank"><b>Session 3 &#8211; Cybersecurity and secure systems (chair: Francisco Silva e Silva)</b></a></td>
+<td><a href="https://drive.google.com/drive/folders/1q4VecuApLsR1_U1jeQ_s-68nb_2zAg5s" target="_blank"><b>Session 3 &#8211; Cybersecurity and secure systems (chair: Francisco Silva e Silva)</b></a></td>
 </tr>
 <tr>
 <td rowspan=5></td>
@@ -137,7 +137,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>09:00 &#8211; 11:00</b></td>
-<td><a href="https://drive.google.com/drive/folders/1PvrdfGP524Vd_3PZHmHESGfJLd5hi6wm"target="_blank"><b>Session 4 &#8211; AI and data science (chair: Miguel Elias Mitre Campista)</b></a></td>
+<td><a href="https://drive.google.com/drive/folders/1PvrdfGP524Vd_3PZHmHESGfJLd5hi6wm" target="_blank"><b>Session 4 &#8211; AI and data science (chair: Miguel Elias Mitre Campista)</b></a></td>
 </tr>
 <tr>
 <td rowspan=5></td>
@@ -173,7 +173,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>16:30 &#8211; 18:30</b></td>
-<td><a href="https://drive.google.com/drive/folders/1UagBuKirRd-3Jpwm96bsDXLNLHP1rKa6"target="_blank"><b>Session 5 &#8211; Sustainability and environment (chair: Ronaldo Alves Ferreira)</b></a></td>
+<td><a href="https://drive.google.com/drive/folders/1UagBuKirRd-3Jpwm96bsDXLNLHP1rKa6" target="_blank"><b>Session 5 &#8211; Sustainability and environment (chair: Ronaldo Alves Ferreira)</b></a></td>
 </tr>
 <tr>
 <td rowspan=5></td>
@@ -204,7 +204,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>09:00 &#8211; 11:00</b></td>
-<td><a href="https://drive.google.com/drive/folders/14-pmrOc01jL7-_EFTOp8fLwdSGcU3ugK"target="_blank"><b>Session 6 – Smart systems and green computing (chair: Markus Endler)</b></a></td>
+<td><a href="https://drive.google.com/drive/folders/14-pmrOc01jL7-_EFTOp8fLwdSGcU3ugK" target="_blank"><b>Session 6 – Smart systems and green computing (chair: Markus Endler)</b></a></td>
 </tr>
 <tr>
 <td rowspan=5></td>
