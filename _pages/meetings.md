@@ -5,16 +5,12 @@ title: Meetings
 nav: true
 nav_order: 8
 ---
-      <div class="column">
-        <h1 class="title-single">Meetings</h1>
-
-                
-          <div class="card card-list is-open"><i class="icon icon-arrow-down icon-arrow-up"></i>
-            <div class="card-header">
-              <h4 class="card-title mb-0">First ECOSustain workshop</h4>
-            </div>
-            <div class="card-body" style="display: block">
-              <p>The seventh (and last!) INCT workshop is coming! In tandem with the First ECOSustain workshop, members of both projects will get together on September 1-4 at the <a href="http://interscity.org/events/members-interscity-together-itamambuca-eco-resort-fifth-inct-workshop/">Itamambuca Eco Resort</a> (Ubatuba &#8211; SP) to present the recent achievements of the project and discuss future directions and integration among researchers. The proposed program is presented below:</p>
+<div class="column">
+<h1 class="title-single">Meetings</h1>
+<h4 class="card-title mb-0">First ECOSustain workshop</h4>
+</div>
+<div class="card-body" style="display: block">
+<p>The seventh (and last!) INCT workshop is coming! In tandem with the First ECOSustain workshop, members of both projects will get together on September 1-4 at the <a href="http://interscity.org/events/members-interscity-together-itamambuca-eco-resort-fifth-inct-workshop/">Itamambuca Eco Resort</a> (Ubatuba &#8211; SP) to present the recent achievements of the project and discuss future directions and integration among researchers. The proposed program is presented below:</p>
 <table id="seventh-inct-table" cellspacing="0" border="1" cellpadding="0">
 <colgroup>
 <col width="105"></colgroup>
@@ -241,6 +237,3 @@ color:unset !important;
 text-decoration: underline
 }
 </style>
-            </div>
-          </div>
-
