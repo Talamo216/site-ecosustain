@@ -13,6 +13,29 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
+
+
+@article{ROSA2023111826,
+
+author = {Thatiane de Oliveira Rosa and Eduardo Martins Guerra and Filipe Figueiredo Correia and Alfredo Goldman},
+
+journal = {Journal of Systems and Software},
+
+title = {CharM — Evaluating a model for characterizing service-based architectures},
+
+year = {2023},
+
+volume = {206},
+
+pages = {111826},
+
+doi = {10.1016/j.jss.2023.111826},
+
+}
+
+
+
+
 <div class="publications">
 
 {% bibliography %}
