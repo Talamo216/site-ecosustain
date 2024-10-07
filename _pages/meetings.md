@@ -6,7 +6,6 @@ nav: true
 nav_order: 8
 ---
 <div class="column">
-<h1 class="title-single">Meetings</h1>
 <h4 class="card-title mb-0">First ECOSustain workshop</h4>
 </div>
 <div class="card-body" style="display: block">
@@ -126,7 +125,7 @@ nav_order: 8
 </tr>
 <tr style="color:#990000">
 <td><b>19:30 &#8211; 21:00</b></td>
-<td>Dinner</b></td>
+<td><b>Dinner</b></td>
 </tr>
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 3 &#8211; Tuesday, September 3, 2024</b></span></td>
@@ -193,7 +192,7 @@ nav_order: 8
 </tr>
 <tr>
 <td><b>18:30 &#8211; 21:00</b></td>
-<td>Dinner on the Deck</b></td>
+<td><b>Dinner on the Deck</b></td>
 </tr>
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 4 &#8211; Wednesday, September 4, 2024</b></span></td>
