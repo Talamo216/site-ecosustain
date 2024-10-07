@@ -5,7 +5,6 @@ title: About us
 permalink: /about/
 nav: true
 nav_order: 2
-dropdown: false
 ---
 
 Ecosustain Project
