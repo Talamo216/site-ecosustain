@@ -5,19 +5,19 @@ title: Meetings
 nav: true
 nav_order: 8
 ---
-<div class="column">
-<h4 class="card-title mb-0">First ECOSustain workshop</h4>
-</div>
-<div class="card-body" style="display: block">
+
+<details>
+<summary style="font-size:1.5em">First ECOSustain workshop</summary>
+<div style="display: block">
 <p>The seventh (and last!) INCT workshop is coming! In tandem with the First ECOSustain workshop, members of both projects will get together on September 1-4 at the <a href="http://interscity.org/events/members-interscity-together-itamambuca-eco-resort-fifth-inct-workshop/">Itamambuca Eco Resort</a> (Ubatuba &#8211; SP) to present the recent achievements of the project and discuss future directions and integration among researchers. The proposed program is presented below:</p>
-<table id="seventh-inct-table" cellspacing="0" border="1" cellpadding="0">
+<table id="seventh-inct-table" cellspacing="0" border="1" cellpadding="0" style="background-color:--global-bg-color; color:--global-text-color">
 <colgroup>
-<col width="105"></colgroup>
+<col width="120"></colgroup>
 <colgroup width="600"></colgroup>
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 1 &#8211; Sunday, September 1, 2024</b></span></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>13:30 &#8211; 15:30</b></td>
 <td><b>Check-in</b></td>
 </tr>
@@ -52,15 +52,15 @@ nav_order: 8
 <td><b>18:30 &#8211; 19:30</b></td>
 <td>High Impact Research and EcoSustain Subprojects &#8211; Fabio Kon (IME/USP)</td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>19:30 &#8211; 21:00</b></td>
 <td><b>Dinner</b></td>
 </tr>
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 2 &#8211; Monday, September 2, 2024</b></span></td>
 </tr>
-<tr style="background-color:#CCCCCC">
-<td><b>8:00 &#8211; 9:00</b></td>
+<tr style="background-color:#CCCCCC;color:#222">
+<td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
 <tr style="color:#990000">
@@ -83,19 +83,19 @@ nav_order: 8
 <tr>
 <td>Dynamic Hardware Customisation for Mobile Users in FPGA-accelerated Edge Infrastructures &#8211; Diogo Machado Gonçalves (UNICAMP)</td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>11:00 &#8211; 12:30</b></td>
 <td><b>Discussion Groups</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>12:30 &#8211; 13:30</b></td>
 <td><b>Lunch</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>13:30 &#8211; 16:00</b></td>
 <td><b>Science on the Beach</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>16:00 &#8211; 16:30</b></td>
 <td><b>Coffee Break</b></td>
 </tr>
@@ -119,7 +119,7 @@ nav_order: 8
 <tr>
 <td>Mapping and Mitigating Bottlenecks in the Linux kernel Contribution Model &#8211; David de Barros Tadokoro (USP)</td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>18:30 &#8211; 19:30</b></td>
 <td><b>Relationship with governments &#8211; SEMAS-PA (Antônio Abelém)</b></td>
 </tr>
@@ -130,8 +130,8 @@ nav_order: 8
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 3 &#8211; Tuesday, September 3, 2024</b></span></td>
 </tr>
-<tr style="background-color:#CCCCCC">
-<td><b>8:00 &#8211; 9:00</b></td>
+<tr style="background-color:#CCCCCC;color:#222">
+<td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
 <tr style="color:#990000">
@@ -154,19 +154,19 @@ nav_order: 8
 <tr>
 <td>Em direção ao enriquecimento semântico dos dados do CulturaEduca &#8211; Vitor Pinheiro de Almeida (PUC-Rio)</td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>11:00 &#8211; 12:30</b></td>
 <td><b>Discussion Groups</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>12:30 &#8211; 13:30</b></td>
 <td><b>Lunch</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>13:30 &#8211; 16:00</b></td>
 <td><b>Science on the Beach</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>16:00 &#8211; 16:30</b></td>
 <td><b>Coffee Break</b></td>
 </tr>
@@ -197,8 +197,8 @@ nav_order: 8
 <tr>
 <td colspan=2 height="17" align="center" valign="middle" style="background-color:#000000;"><span style="color:#FFFFFF"><b>Day 4 &#8211; Wednesday, September 4, 2024</b></span></td>
 </tr>
-<tr style="background-color:#CCCCCC">
-<td><b>8:00 &#8211; 9:00</b></td>
+<tr style="background-color:#CCCCCC;color:#222">
+<td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
 <tr style="color:#990000">
@@ -221,15 +221,16 @@ nav_order: 8
 <tr>
 <td>Sensoriamento Quântico e suas aplicações no contexto do projeto &#8211; Antônio Abelém e Diego Medeiros de Abreu (UFPA)</td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>11:00 &#8211; 12:30</b></td>
 <td><b>Discussion Groups</b></td>
 </tr>
-<tr style="background-color:#CCCCCC">
+<tr style="background-color:#CCCCCC;color:#222">
 <td><b>12:30 &#8211; 13:30</b></td>
 <td><b>Checkout / Lunch</b></td>
 </tr>
 </table>
+</details>
 <style>
 #seventh-inct-table a {
 color:unset !important;
