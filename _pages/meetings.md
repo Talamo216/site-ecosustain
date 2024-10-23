@@ -8,7 +8,6 @@ nav_order: 8
 
 <details>
 <summary style="font-size:1.5em">First ECOSustain workshop</summary>
-<div style="display: block">
 <p>The seventh (and last!) INCT workshop is coming! In tandem with the First ECOSustain workshop, members of both projects will get together on September 1-4 at the <a href="http://interscity.org/events/members-interscity-together-itamambuca-eco-resort-fifth-inct-workshop/">Itamambuca Eco Resort</a> (Ubatuba &#8211; SP) to present the recent achievements of the project and discuss future directions and integration among researchers. The proposed program is presented below:</p>
 <table id="seventh-inct-table" cellspacing="0" border="1" cellpadding="0" style="background-color:--global-bg-color; color:--global-text-color">
 <colgroup>
