@@ -1,5 +1,3 @@
-Colocar um paper para deixar de modelo das publications
-
 "News" é tudo uma página só com tudo misturado, exceto "meetings".
 "Meetings" é uma seção dentro dessa página, que pode ficar dentro de um
 "abre-fecha" logo no começo. Se possível, na coluna esquerda da home
