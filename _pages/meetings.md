@@ -21,11 +21,11 @@ nav_order: 8
 <td><b>13:30 &#8211; 15:30</b></td>
 <td><b>Check-in</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>15:30 &#8211; 16:30</b></td>
 <td><b>Opening</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>16:30 &#8211; 18:30</b></td>
 <td><a href="https://drive.google.com/drive/folders/1T4L-x90Sqh37L3rbu9p9l5HJ7S3kx50M" target="_blank"><b>Session 1 &#8211; Smart cities (chair: Fábio Costa)</b></a></td>
 </tr>
@@ -63,7 +63,7 @@ nav_order: 8
 <td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>9:00 &#8211; 11:00</b></td>
 <td><a href="https://drive.google.com/drive/folders/1D36w3kaVx0mIcuxxKnIia6QRzyw3p5Iv" target="_blank"><b>Session 2 &#8211; Computer networking and distributed systems (chair: Luiz Bittencourt)</b></a></td>
 </tr>
@@ -99,7 +99,7 @@ nav_order: 8
 <td><b>16:00 &#8211; 16:30</b></td>
 <td><b>Coffee Break</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>16:30 &#8211; 18:30</b></td>
 <td><a href="https://drive.google.com/drive/folders/1q4VecuApLsR1_U1jeQ_s-68nb_2zAg5s" target="_blank"><b>Session 3 &#8211; Cybersecurity and secure systems (chair: Francisco Silva e Silva)</b></a></td>
 </tr>
@@ -123,7 +123,7 @@ nav_order: 8
 <td><b>18:30 &#8211; 19:30</b></td>
 <td><b>Relationship with governments &#8211; SEMAS-PA (Antônio Abelém)</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>19:30 &#8211; 21:00</b></td>
 <td><b>Dinner</b></td>
 </tr>
@@ -134,7 +134,7 @@ nav_order: 8
 <td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>09:00 &#8211; 11:00</b></td>
 <td><a href="https://drive.google.com/drive/folders/1PvrdfGP524Vd_3PZHmHESGfJLd5hi6wm" target="_blank"><b>Session 4 &#8211; AI and data science (chair: Miguel Elias Mitre Campista)</b></a></td>
 </tr>
@@ -170,7 +170,7 @@ nav_order: 8
 <td><b>16:00 &#8211; 16:30</b></td>
 <td><b>Coffee Break</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>16:30 &#8211; 18:30</b></td>
 <td><a href="https://drive.google.com/drive/folders/1UagBuKirRd-3Jpwm96bsDXLNLHP1rKa6" target="_blank"><b>Session 5 &#8211; Sustainability and environment (chair: Ronaldo Alves Ferreira)</b></a></td>
 </tr>
@@ -201,7 +201,7 @@ nav_order: 8
 <td><b>08:00 &#8211; 09:00</b></td>
 <td><b>Breakfast</b></td>
 </tr>
-<tr style="color:#990000">
+<tr style="color:#fa0a0a">
 <td><b>09:00 &#8211; 11:00</b></td>
 <td><a href="https://drive.google.com/drive/folders/14-pmrOc01jL7-_EFTOp8fLwdSGcU3ugK" target="_blank"><b>Session 6 – Smart systems and green computing (chair: Markus Endler)</b></a></td>
 </tr>
