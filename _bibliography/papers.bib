@@ -10,12 +10,192 @@
   doi = {10.1016/j.jss.2023.111826},
 }
 
+@article{10666743,
+  author={Borlido, Isabela and Bouhid, Eduardo and Sundermann, Victor
+          and Resende, Hugo and Fazenda, Alvaro Luiz and Faria, Fabio
+          and Guimar, Silvio Jamil F.},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={How to Identify Good Superpixels for Deforestation Detection
+         on Tropical Rainforests},
+  year={2024},
+  volume={21},
+  pages={1-5},
+  abstract={The conservation of tropical forests is a topic of significant
+  social and ecological relevance due to their crucial role in the global
+  ecosystem. Unfortunately, deforestation and degradation impact millions of
+  hectares annually, requiring government or private initiatives for effective
+  forest monitoring. However, identifying deforested regions in satellite
+  images is challenging due to data imbalance, image resolution, low-contrast
+  regions, and occlusion. Superpixel segmentation can overcome these drawbacks,
+  reducing workload and preserving important image boundaries. However, most
+  works for remote-sensing images do not exploit recent superpixel methods. In
+  this work, we evaluate 16 superpixel methods in satellite images to support a
+  deforestation detection system in tropical forests. We also assess the
+  performance of superpixel methods for the target task, establishing a
+  relationship with segmentation methodological evaluation. According to our
+  results, ERS, GMMSP, and DISF perform best on undersegmentation error (UE),
+  boundary recall (BR), and similarity between image and reconstruction from
+  superpixels (SIRSs), respectively, whereas ERS has the best tradeoff with
+  compactness index (CO) and Reg. In classification, SH, DISF, and ISF perform
+  best on RGB, UMDA, and PCA compositions, respectively. According to our
+  experiments, superpixel methods with better tradeoffs among delineation,
+  homogeneity, compactness, and regularity are more suitable for identifying
+  good superpixels for deforestation detection tasks.},
+  doi={10.1109/LGRS.2024.3454973},
+}
+
+@inproceedings{10.1145/3638529.3654000,
+  author = {Neto, Eduardo Bouhid and Faria, Fabio Augusto
+            and De Oliveira, Amanda de Almeida Sales
+            and Fazenda, Alvaro Luiz},
+  title = {A Satellite Band Selection Framework for Amazon
+           Forest Deforestation Detection Task},
+  year = {2024},
+  isbn = {9798400704949},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3638529.3654000},
+  abstract = {The conservation of tropical forests is a topic of significant
+  social and ecological relevance due to their crucial role in the global
+  ecosystem. Unfortunately, deforestation and degradation impact millions of
+  hectares annually, necessitating government or private initiatives for
+  effective forest monitoring. This study introduces a novel framework that
+  employs the Univariate Marginal Distribution Algorithm (UMDA) to select
+  spectral bands from Landsat-8 satellite optical sensor, optimizing the
+  representation of deforested areas. This selection guides a semantic
+  segmentation architecture, DeepLabv3+, enhancing its performance.
+  Experimental results revealed several band compositions that achieved
+  superior balanced accuracy compared to commonly adopted combinations for
+  deforestation detection, utilizing segment classification via a Support
+  Vector Machine (SVM). Moreover, the optimal band compositions identified by
+  the UMDA-based approach improved the performance of the DeepLabv3+
+  architecture, surpassing state-of-the-art approaches compared in this study.
+  The observation that a few selected bands outperform the total contradicts
+  the data-driven paradigm prevalent in the deep learning field. Therefore,
+  this suggests an exception to the conventional wisdom that `more is always
+  better'.},
+  booktitle = {Proceedings of the Genetic and Evolutionary
+               Computation Conference},
+  pages = {1300–1308},
+  numpages = {9},
+  keywords = {UMDA, deforestation detection, semantic segmentation, Amazon},
+  venue = {Melbourne, VIC, Australia},
+  series = {GECCO '24},
+}
+
+@inproceedings{10716332,
+  author={Resende, Hugo and Neto, Eduardo B. and Cappabianco, Fábio A. M.
+          and Fazenda, Álvaro L. and Faria, Fabio A.},
+  booktitle={2024 37th SIBGRAPI Conference on Graphics, Patterns
+             and Images (SIBGRAPI)},
+  title={Sampling Strategies Based on Wisdom of Crowds for Amazon
+         Deforestation Detection},
+  year={2024},
+  pages={1-6},
+  abstract = {Conserving tropical forests is highly relevant socially and
+  ecologically because of their critical role in the global ecosystem. However,
+  the ongoing deforestation and degradation affect millions of hectares each
+  year, necessitating government or private initiatives to ensure effective
+  forest monitoring. In April 2019, a project based on Citizen Science and
+  Machine Learning models called ForestEyes (FE) was launched with the aim of
+  providing supplementary data to assist experts from government and non-profit
+  organizations in their deforestation monitoring efforts. Recent research has
+  shown that labeling FE project volunteers/citizen scientists helps tailor
+  machine learning models. In this sense, we adopt the FE project to create
+  different sampling strategies based on the wisdom of crowds to select the
+  most suitable samples from the training set to learn an SVM technique and
+  obtain better classification results in deforestation detection tasks. In our
+  experiments, we can show that our strategy based on user entropy-increasing
+  achieved the best classification results in the deforestation detection task
+  when compared with the random sampling strategies, as well as, reducing the
+  convergence time of the SVM technique.},
+  doi={10.1109/SIBGRAPI62404.2024.10716332},
+}
+
+@inproceedings{queirozSBSR:2025,
+  author={Queiroz, Vinícius D'Lucas Bezerra
+          and Resende, Hugo and Faria, Fabio Augusto
+          and Cappabianco, Fábio and Fazenda, Álvaro},
+  booktitle={Anais do Simpósio Brasileiro de Sensoriamento Remoto (SBSR)},
+  title={Assessing the potential of {SAR} images in the {ForestEyes}
+         project's citizen science campaings},
+  year = {2025},
+  note= {accepted},
+  publisher ={INPE},
+  address = {São José dos Campos},
+  venue = {Salvador},
+  conference-number = {10},
+  abstract = {Tropical forests play a crucial role in sustaining life on Earth,
+  however, they have experienced a significant reduction in vegetation cover
+  due to activities such as degradation and deforestation. A recent initiative
+  to monitor these areas is the ForestEyes project, which combines citizen
+  science and machine learning to track changes in tropical forests. The
+  project currently uses images from optical sensors to create citizen science
+  campaigns. However, the presence of clouds is a limiting factor in optical
+  images and can prevent the detection of deforested areas. Thus, this article
+  presents a preliminary evaluation of Synthetic Aperture Radar (SAR) images
+  from Sentinel-1 and PALSAR-2/ALOS-2 sensors, exploring their viability for
+  citizen science campaigns in the context of the ForestEyes project.
+  Experimental results indicate that PALSAR-2 data is more effective, as it has
+  been particularly advantageous in identifying deforested areas.},
+}
+
 @article{10.1016/j.jss.2024.112252,
-title = {Exploring emergent microservice evolution in elastic deployment environments},
-journal = {Journal of Systems and Software},
-pages = {112252},
-year = {2024},
-issn = {0164-1212},
-doi = {10.1016/j.jss.2024.112252},
-author = {Roberto Rodrigues-Filho and Iwens Sene and Barry Porter and Luiz F. Bittencourt and Fabio Kon and Fábio M. Costa},
+  title = {Exploring emergent microservice evolution in elastic
+           deployment environments},
+  journal = {Journal of Systems and Software},
+  volume = {219},
+  pages = {112252},
+  year = {2024},
+  issn = {0164-1212},
+  doi = {10.1016/j.jss.2024.112252},
+  author = {Roberto Rodrigues-Filho and Iwens Sene and Barry Porter
+            and Luiz F. Bittencourt and Fabio Kon and Fábio M. Costa},
+  abstract = {Microservices have become an important technology to enable the
+  dynamic composition of large-scale self-adaptive systems. Although modern
+  microservice ecosystems provide a variety of autonomous adaptation
+  mechanisms, when focusing on the microservice itself, they can only account
+  for changes in the sheer increase in workload volume. On the other hand, when
+  workload patterns change, efficient treatment requires the intervention of
+  DevOps experts to manually evolve the internal architecture of services.
+  Given the need to quickly adapt systems to respond to changes, solely relying
+  on DevOps to react to workload pattern changes becomes a bottleneck for
+  future systems. To address this issue, we advance the concept of emergent
+  microservices, that autonomously adapt and evolve their internal
+  architectural composition to better handle changes in the pattern of incoming
+  requests without human intervention. We demonstrate the effectiveness of our
+  approach by exploring this novel concept in the context of a
+  microservice-based Smart City platform. Editor’s note: Open Science material
+  was validated by the Journal of Systems and Software Open Science Board.},
+}
+
+@inproceedings{sscad,
+ author = {Vinicius Pinto and João Lima and Vanderlei Munhoz
+           and Daniel Cordeiro and Emilio Francesquini and Márcio Castro},
+ title = {Performance Evaluation of Dense Linear Algebra Kernels
+          using Chameleon and {StarPU} on {AWS}},
+ booktitle = {Anais do XXV Simpósio em Sistemas Computacionais de Alto Desempenho},
+ venue = {São Carlos/SP},
+ year = {2024},
+ keywords = {br},
+ pages = {300--311},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sscad.2024.244405},
+}
+
+@inproceedings{sscad_estendido,
+ author = {Artur Launikas e Cupelli and Fábio Nakano
+           and Flávio Coutinho and Daniel Cordeiro},
+ title = {Evolução histórica do desempenho energético de tarefas
+          cotidianas em uma distribuição {Linux}},
+ booktitle = {Anais Estendidos do XXV Simpósio em Sistemas
+              Computacionais de Alto Desempenho},
+ venue = {São Carlos/SP},
+ year = {2024},
+ keywords = {br},
+ pages = {81--88},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sscad_estendido.2024.244345},
 }
