@@ -9,6 +9,7 @@ dropdown: false
 
 #### Os impactos ambientais da computação
 Acesse a publicação em [Os impactos ambientais da computação](https://revistapesquisa.fapesp.br/os-impactos-ambientais-da-computacao/)
+
 ---
 
 #### As estratégias para tornar os data centers mais sustentáveis
