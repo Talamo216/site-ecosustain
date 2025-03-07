@@ -8,17 +8,17 @@ dropdown: false
 ---
 
 #### Os impactos ambientais da computação
-Acesse a publicação em [Os impactos ambientais da computação](https://revistapesquisa.fapesp.br/os-impactos-ambientais-da-computacao/)
+Acesse a publicação em [Os impactos ambientais da computação](https://revistapesquisa.fapesp.br/os-impactos-ambientais-da-computacao/)(Revista Pesquisa FAPESP)
 
 ---
 
 #### As estratégias para tornar os data centers mais sustentáveis
-Acesse a publicação em [As estratégias para tornar os data centers mais sustentáveis](https://revistapesquisa.fapesp.br/as-estrategias-para-tornar-os-data-centers-mais-sustentaveis/)
+Acesse a publicação em [As estratégias para tornar os data centers mais sustentáveis](https://revistapesquisa.fapesp.br/as-estrategias-para-tornar-os-data-centers-mais-sustentaveis/)(Revista Pesquisa FAPESP)
 
 ---
 
 #### Mercado de criptomoedas tem elevado gasto energético
-Acesse a publicação em [Mercado de criptomoedas tem elevado gasto energético](https://revistapesquisa.fapesp.br/mercado-de-criptomoedas-tem-elevado-gasto-energetico/)
+Acesse a publicação em [Mercado de criptomoedas tem elevado gasto energético](https://revistapesquisa.fapesp.br/mercado-de-criptomoedas-tem-elevado-gasto-energetico/)(Revista Pesquisa FAPESP)
 
 ---
 
