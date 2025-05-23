@@ -13,6 +13,7 @@ The EcoSustain project focuses on Computing and Data Science for Sustainability 
 
 <strong style="font-size: 1.2em;">ForestEyes - Citizen Scientists and Machine Learning Assisting Rainforest Conservation</strong>
 <br>
+<p>
 Launched in April 2019, the ForestEyes Project aims to provide supplementary data to assist specialists
 from governmental and non-profit organizations in their deforestation monitoring efforts. This project
 uniquely integrates Citizen Science (CS) with Machine Learning (ML) to monitor tropical forests. The
@@ -24,6 +25,8 @@ in new images of an extensive forest region. This methodology based on CS and ML
 introduces a novel computational system compared to the existing monitoring systems for the Amazon
 Forest. In the future, this proposed system may generate warning signals for the relevant authorities and
 produce supplementary data for official monitoring programs.
+</p>
+<p>
 <br>
 Coordinator:
 Alvaro Luiz Fazenda
@@ -41,9 +44,10 @@ Hugo Rezende, Juan Carlos Guerra Blas, Eduardo Bouhid Neto (Unifesp)
 External collaborators:
 Silvio Jamil Ferzoli Guimarães (PUC-MG)
 <br>
+</p>
 <br>
 <strong style="font-size: 1.2em;">Smart City Applications for Sustainable Urban Mobility</strong>
-<br>
+<p>
 The increasing use of mobile networks and Internet of Things devices enables communications
 involving sensors, pedestrians, vehicles, and the wired Internet. Smart Cities and Intelligent
 Transportation Systems applications leverage the data collection capabilities and the mobility of such
@@ -55,6 +59,8 @@ control with centralized machine learning. The second application looks at using
 based on distributed systems. The idea is to implement the traffic light control application using
 federated learning and, in addition, build a framework that can be reused by other applications from
 EcoSustain.
+</p>
+<p>
 <br>
 Coordinator:
 Miguel Elias Mitre Campista
@@ -72,7 +78,51 @@ External collaborators:
 Marcelo Dias de Amorim (Sorbonne University), França
 <br>
 <br>
+</p>
+<p>
+<strong style="font-size: 1.2em;">Towards a Digital Twin Approach for Health Care Based on Environmental and Digital Phenotype
+Monitoring</strong>
+</p>
+<p>
+Digital phenotyping can be used to monitor the health of individuals through the collection of
+physiological data, such as heart rate, respiratory rate, oxygen saturation, pressure, body inclination,
+combined with location and physical activity data, from which behavioral characteristics can be
+extracted that allow health problems of interest to be inferred in different areas of health, such as
+occupational and mental health. Additionally, environmental aspects such as temperature, humidity,
+light, noise level, air pollution, among others, can be combined with digital phenotyping data to
 
+investigate how the environment may be influencing the health of individuals. This ECOSustain sub-
+project proposal is related to social sustainability and aims to investigate a digital twin approach for
+
+combining environmental monitoring with digital phenotyping to enable research in Personalized
+Healthcare Services (PHS).
+</p>
+
+<p>
+<br>
+Coordinator:
+Francisco José da Silva e Silva
+<br>
+Institution of affiliation:
+UFMA
+<br>
+Other researchers:
+Davi Viana (UFMA) , Luciano Reis Coutinho (UFMA) , Markus Endler(PUC-Rio) , Anderson de Oliveira
+(PUC-Rio) , Vitor Pinheiro de Almeida (PUC-Rio) , Fabio Kon (IME-USP) , Daniel Cordeiro (EACH-USP) ,
+Fábio Costa (UFG)
+<br>
+Students:
+Luis Eduardo Costa Laurindo (doutorado-UFMA) André Filipe Sousa Barreto (mestrado-UFMA) Amanda
+Almeida Cardoso (graduação-UFMA) Augusto Gonçalves Santos (graduação-UFMA) Marcos Vinicius dos
+Santos Oliveira (graduação-UFMA) Francisco Wallison Carlos Rocha (doutorado-EACH-USP) Jedean
+Simões (Graduação, PUC-Rio) Victor Cortez (mestrando, PUC-Rio)
+<br>
+External collaborators:
+Cícero Costa Quarto (UEMA, Brazil)
+<br>
+<br>
+
+</p>
 
 # Members
 
