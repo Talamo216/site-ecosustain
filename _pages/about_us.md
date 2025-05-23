@@ -11,7 +11,11 @@ The EcoSustain project focuses on Computing and Data Science for Sustainability 
 
 # Research Themes
 
-<strong style="font-size: 1.2em;">ForestEyes - Citizen Scientists and Machine Learning Assisting Rainforest Conservation</strong>
+<strong style="font-size: 1.2em;">ForestEyes - Citizen Scientists and Machine Learning Assisting Rainforest Conservation</strong><style>
+    h1 {
+      color: #00998c; 
+    }
+  </style>
 <br>
 <p>
 Launched in April 2019, the ForestEyes Project aims to provide supplementary data to assist specialists
@@ -27,7 +31,6 @@ Forest. In the future, this proposed system may generate warning signals for the
 produce supplementary data for official monitoring programs.
 </p>
 <p>
-<br>
 Coordinator:
 Alvaro Luiz Fazenda
 <br>
@@ -61,7 +64,6 @@ federated learning and, in addition, build a framework that can be reused by oth
 EcoSustain.
 </p>
 <p>
-<br>
 Coordinator:
 Miguel Elias Mitre Campista
 <br>
@@ -97,9 +99,7 @@ project proposal is related to social sustainability and aims to investigate a d
 combining environmental monitoring with digital phenotyping to enable research in Personalized
 Healthcare Services (PHS).
 </p>
-
 <p>
-<br>
 Coordinator:
 Francisco José da Silva e Silva
 <br>
@@ -107,9 +107,7 @@ Institution of affiliation:
 UFMA
 <br>
 Other researchers:
-Davi Viana (UFMA) , Luciano Reis Coutinho (UFMA) , Markus Endler(PUC-Rio) , Anderson de Oliveira
-(PUC-Rio) , Vitor Pinheiro de Almeida (PUC-Rio) , Fabio Kon (IME-USP) , Daniel Cordeiro (EACH-USP) ,
-Fábio Costa (UFG)
+Davi Viana (UFMA) , Luciano Reis Coutinho (UFMA) , Markus Endler(PUC-Rio) , Anderson de Oliveira (PUC-Rio) , Vitor Pinheiro de Almeida (PUC-Rio) , Fabio Kon (IME-USP) , Daniel Cordeiro (EACH-USP), Fábio Costa (UFG)
 <br>
 Students:
 Luis Eduardo Costa Laurindo (doutorado-UFMA) André Filipe Sousa Barreto (mestrado-UFMA) Amanda
