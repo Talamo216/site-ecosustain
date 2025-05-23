@@ -11,11 +11,7 @@ The EcoSustain project focuses on Computing and Data Science for Sustainability 
 
 # Research Themes
 
-<strong style="font-size: 1.2em;">ForestEyes - Citizen Scientists and Machine Learning Assisting Rainforest Conservation</strong><style>
-    h1 {
-      color: #00998c; 
-    }
-  </style>
+<strong style="font-size: 1.2em; color: #00998c;">ForestEyes - Citizen Scientists and Machine Learning Assisting Rainforest Conservation</strong>
 <br>
 <p>
 Launched in April 2019, the ForestEyes Project aims to provide supplementary data to assist specialists
@@ -49,7 +45,7 @@ Silvio Jamil Ferzoli Guimarães (PUC-MG)
 <br>
 </p>
 <br>
-<strong style="font-size: 1.2em;">Smart City Applications for Sustainable Urban Mobility</strong>
+<strong style="font-size: 1.2em; color: #00998c;">Smart City Applications for Sustainable Urban Mobility</strong>
 <p>
 The increasing use of mobile networks and Internet of Things devices enables communications
 involving sensors, pedestrians, vehicles, and the wired Internet. Smart Cities and Intelligent
@@ -82,7 +78,7 @@ Marcelo Dias de Amorim (Sorbonne University), França
 <br>
 </p>
 <p>
-<strong style="font-size: 1.2em;">Towards a Digital Twin Approach for Health Care Based on Environmental and Digital Phenotype
+<strong style="font-size: 1.2em; color: #00998c;">Towards a Digital Twin Approach for Health Care Based on Environmental and Digital Phenotype
 Monitoring</strong>
 </p>
 <p>
