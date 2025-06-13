@@ -10,13 +10,6 @@ nav_order: 5
 
 #### VAMOS PEDALAR
 
-VAMOS PEDALAR é um programa da TV Cultura que na Temporada 6 - EP 8 fala sobre o Bike SP
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhKtEyC_rcs" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhKtEyC_rcs" frameborder="0" allowfullscreen></iframe>
-
 <style>
 .video-container {
   position: relative;
