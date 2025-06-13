@@ -11,10 +11,13 @@ dropdown: false
 
 Acesse a publicação em [projeto da usp e da fgv quer pagar para quem andar de bike em sp entenda como](https://www.estadao.com.br/sao-paulo/projeto-da-usp-e-da-fgv-quer-pagar-para-quem-andar-de-bike-em-sp-entenda-como/)
 
+---
 
 #### Jornal da USP: Estudo em parceria com a usp busca voluntarios para projeto que troca pedaladas por creditos no bilhete unico
 
 Acesse a publicação em [Estudo em parceria com a usp busca voluntarios para projeto que troca pedaladas por creditos no bilhete unico](https://jornal.usp.br/universidade/estudo-em-parceria-com-a-usp-busca-voluntarios-para-projeto-que-troca-pedaladas-por-creditos-no-bilhete-unico/)
+
+---
 
 #### Os impactos ambientais da computação
 Acesse a publicação em [Os impactos ambientais da computação](https://revistapesquisa.fapesp.br/os-impactos-ambientais-da-computacao/) (Revista Pesquisa FAPESP)
