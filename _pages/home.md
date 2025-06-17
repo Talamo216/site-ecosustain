@@ -63,4 +63,5 @@ Os desafios ambientais globais incluem o desmatamento, a perda de biodiversidade
  <div class="card card-mini">
   <div class="card-header">
    <h4 class="title-mini">Recent press</h4>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3R7JuoQfMUCb6w1tlK6n2C?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
    </div>
