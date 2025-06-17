@@ -7,6 +7,12 @@ nav_order: 6
 dropdown: false
 ---
 
+#### CBN São Paulo: Bike SP: projeto transforma quilômetros pedalados em créditos no bilhete único
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3R7JuoQfMUCb6w1tlK6n2C?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
 #### Estadão: Projeto da usp e da fgv quer pagar para quem andar de bike em sp entenda como
 
 Acesse a publicação em [projeto da usp e da fgv quer pagar para quem andar de bike em sp entenda como](https://www.estadao.com.br/sao-paulo/projeto-da-usp-e-da-fgv-quer-pagar-para-quem-andar-de-bike-em-sp-entenda-como/)
