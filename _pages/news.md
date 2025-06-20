@@ -9,7 +9,7 @@ dropdown: false
 
 #### CNN Brasil: projeto troca pedaladas por créditos de transporte
 
-Acesse a prublicação em [Projeto troca pedaladas por créditos de transporte](https://www.youtube.com/live/cHOxiSIyN4c?t=3899s)
+Acesse a prublicação em [projeto troca pedaladas por créditos de transporte](https://www.youtube.com/live/cHOxiSIyN4c?t=3899s)
 
 ---
 
