@@ -7,6 +7,23 @@ nav_order: 6
 dropdown: false
 ---
 
+#### Spotify: O caminho para cidades (pouco) inteligêntes: Estamos na mesma página? 
+
+Acesse a publicação em [O caminho para cidades (pouco) inteligêntes: Estamos na mesma página?](<iframe style="border-radius:12px" src="https://open.spotify.com/episode/21pK7KYOF2H8ZWyZhryxhc" width="100%" height="352" frameBorder="0" allowfulls>)
+
+
+#### TV Cultura: BikeSP incentiva mobilidade por bicicleta
+
+Acesse a publicação da TV Cultura em [BikeSP incentiva mobilidade por bicicleta](https://www.youtube.com/live/0qzTvdDsmjI?si=hCTFkdmKTbksHKTT&t=658)
+
+---
+
+#### Nexo jornal: O que atrasa São Paulo no incentivo ao uso de bicicletas
+
+Acesse a publicação em [O que atrasa São Paulo no incentivo ao uso de bicicletas](https://www.nexojornal.com.br/expresso/2025/06/20/bicicleta-bike-sao-paulo-incentivo)
+
+---
+
 #### CNN Brasil: projeto troca pedaladas por créditos de transporte
 
 Acesse a prublicação em [projeto troca pedaladas por créditos de transporte](https://www.youtube.com/live/cHOxiSIyN4c?t=3899s)
