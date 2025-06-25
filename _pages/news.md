@@ -9,7 +9,7 @@ dropdown: false
 
 #### Spotify: O caminho para cidades (pouco) inteligêntes: Estamos na mesma página? 
 
-Acesse a publicação em [O caminho para cidades (pouco) inteligêntes: Estamos na mesma página?](<iframe style="border-radius:12px" src="https://open.spotify.com/episode/21pK7KYOF2H8ZWyZhryxhc" width="100%" height="352" frameBorder="0" allowfulls>)
+<iframe style="border-radius:12px" src="https://open.spotify.com/episode/21pK7KYOF2H8ZWyZhryxhc" width="100%" height="352" frameBorder="0" allowfullswfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 #### TV Cultura: BikeSP incentiva mobilidade por bicicleta
