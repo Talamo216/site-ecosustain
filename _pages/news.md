@@ -7,7 +7,7 @@ nav_order: 6
 dropdown: false
 ---
 
-#### Spotify: O caminho para cidades (pouco) inteligêntes: Estamos na mesma página? 
+#### O caminho para cidades (pouco) inteligêntes: Estamos na mesma página? 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/21pK7KYOF2H8ZWyZhryxhc" width="100%" height="352" frameBorder="0" allowfullswfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
