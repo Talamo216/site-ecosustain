@@ -7,6 +7,16 @@ nav_order: 6
 dropdown: false
 ---
 
+
+#### Jornal da Record: SP testa projeto que remunera quem usa bicicleta para andar pela cidade
+
+Acesse a publicação do jornal da Record em [SP testa projeto que remunera quem usa bicicleta para andar pela cidade](https://www.youtube.com/watch?v=rNxzJedo5Ho) 
+
+#### Projeto BikeSP no SPTV e Bom Dia São Paulo
+
+Acesse a publicação da rede globo em [Projeto BikeSP no SPTV e Bom Dia São Paulo](https://www.youtube.com/watch?v=mtpHS-gHj1A)
+
+
 #### O caminho para cidades (pouco) inteligêntes: Estamos na mesma página? 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/21pK7KYOF2H8ZWyZhryxhc" width="100%" height="352" frameBorder="0" allowfullswfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
