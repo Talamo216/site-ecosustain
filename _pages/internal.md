@@ -6,6 +6,12 @@ description: Information for members of the project
 nav: false
 ---
 
+sugestão de texto de agradecimento para ser utilizada em artigos publicados em conferências e periódicos com apoio do projeto:
+<strong>"Este trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), por meio do projeto 2023/00811-0."</strong>
+ou, em inglês:
+<strong>"This study was financed, in part, by the São Paulo Research Foundation (FAPESP), Brazil, through project 2023/00811-0"</strong>
+
+
 # Guidelines for `bibtex` in the scientific reports
 
 1. It is best to use UTF-8, there is no need for LaTeX codes ("`\~a`"
