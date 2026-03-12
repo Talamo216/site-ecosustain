@@ -1,0 +1,48 @@
+- name: Bike SP
+  logo: logo-bikesp.png
+  alt: bikeSP
+  url: https://gitlab.com/interscity/bikesp/bikespapp
+  desc: |
+    Um arcabouço para experimentos em larga escala com mobilidade
+    urbana sustentável, com foco em ciclismo.
+  paper_url: https://doi.org/10.1016/j.trip.2025.101794
+  # https://interscity.org/bikesp/piloto/
+  paper_title: "Cycling towards equity: Financial incentives as a strategy for mobility justice"
+
+- name: Environmental Quality Monitoring framework
+  url: https://github.com/AirQyMO
+  desc: |
+    EnQyMo (Environmental Quality Monitoring) framework is an intelligent
+    system designed to bridge the gap between environmental sensing and
+    personalised health protection. EnQyMo utilizes an agentic Large
+    Language Model (LLM) framework for parsing and ”reason” over complex,
+    unstructured scientific literature and medical guidelines. By
+    autonomously retrieving and processing technical documents, the
+    system defines dynamic hazard intervals that correlate specific
+    pollutant levels with their impact on chronic respiratory conditions,
+    effectively acting as a digital health expert. EnQyMo architecture
+    leverages the ContextNet and Mobile Hub middleware to solve the
+    challenge of localized alerting.
+  paper_url: https://www-di.inf.puc-rio.br/~endler/paperlinks/EnQyMo_PeerJ.pdf
+  paper_title: LLM-based Air Quality Monitoring and Localized Alert Generation
+
+- name: Carbon Footprint Plugin for SimGrid
+  url: https://github.com/saraiva03/carbon-footprint-simgrid-batsim
+  desc: |
+    A plugin for the SimGrid simulator (https://simgrid.org/) designed
+    to simulate and monitor CO₂ emissions resulting from the energy
+    consumption of computational hosts in geo-distributed systems.
+    The plugin was merged into the main SimGrid repository 
+    (https://framagit.org/simgrid/simgrid) on November 16, 2025.
+  paper_url: https://doi.org/10.5753/sscad.2025.15853
+  paper_title: |
+    Estimating CO2 emissions of distributed applications and
+    platforms with SimGrid_Batsim
+
+- name: YvyChain
+  url: https://github.com/mattbasttos/forest-blockchain-contracts
+  desc: |
+    O YvyChain é uma arquitetura descentralizada em blockchain desenvolvida
+    para garantir a integridade, rastreabilidade e transparência de créditos
+    de carbono em projetos REDD+ na Amazônia. Este software é um produto
+    derivado de meu TCC em Ciência da Computação.

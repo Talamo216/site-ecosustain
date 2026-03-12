@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  {%- for software in site.data.softwares -%}
+
+    <article style="margin-top: 5ex">
+
+      <h2 style="margin-bottom: 1ex"><strong>
+        {%- if software.url == blank -%}
+          <span style="color: #444444">{{software.name}}</span>
+        {%- else -%}
+          <a href="{{software.url}}" style="color: #444444">{{software.name}}</a>
+        {%- endif -%}
+        </strong></h2>
+
+      {% if software.logo != blank %}
+
+        {%- capture theimage -%}
+          <img src="/assets/img/{{software.logo}}" alt="{{software.alt}}"
+               style="height: 4ex; float: left; margin-top: .8ex;
+                      margin-bottom: .8ex; margin-right: 2em; max-width: 20%">
+        {%- endcapture -%}
+
+        {%- if software.url == blank %}
+          {{theimage}}{%- else -%}<a href="{{software.url}}">{{theimage}}</a>
+        {%- endif -%}
+
+      {%- endif -%}
+
+      <div style="width: 60%;">{{software.desc}}</div>
+
+      {%- if software.paper_url != blank %}
+        <div style="display: flex; justify-content: flex-start; width: 60%;
+                    align-items: baseline; gap: 9px; margin-top: 2ex">
+          <div><strong>Paper:</strong></div>
+          <div><a href="{{software.paper_url}}">{{software.paper_title}}</a></div>
+        </div>
+      {%- endif %}
+
+    </article>
+  {%- endfor %}
+</div>
