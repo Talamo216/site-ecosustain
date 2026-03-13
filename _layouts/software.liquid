@@ -11,13 +11,8 @@ layout: default
 
     <article style="margin-top: 5ex">
 
-      <h2 style="margin-bottom: 1ex"><strong>
-        {%- if software.url == blank -%}
-          <span style="color: #444444">{{software.name}}</span>
-        {%- else -%}
-          <a href="{{software.url}}" style="color: #444444">{{software.name}}</a>
-        {%- endif -%}
-        </strong></h2>
+      <h2 style="margin-bottom: 1ex">
+        <strong style="color: #885555">{{software.name}}</strong></h2>
 
       {% if software.logo != blank %}
 
@@ -35,10 +30,26 @@ layout: default
 
       <div style="width: 60%;">{{software.desc}}</div>
 
+      {%- if software.homepage != blank %}
+        <div style="display: flex; justify-content: flex-start; width: 60%;
+                    align-items: baseline; gap: 9px; margin-top: 2ex">
+          <div style="min-width: 5.5em; text-align: right"><strong>Homepage:</strong></div>
+          <div><a href="{{software.homepage}}">{{software.homepage}}</a></div>
+        </div>
+      {%- endif %}
+
+      {%- if software.url != blank %}
+        <div style="display: flex; justify-content: flex-start; width: 60%;
+                    align-items: baseline; gap: 9px; margin-top: 2ex">
+          <div style="min-width: 5.5em; text-align: right"><strong>Repository:</strong></div>
+          <div><a href="{{software.url}}">{{software.url}}</a></div>
+        </div>
+      {%- endif %}
+
       {%- if software.paper_url != blank %}
         <div style="display: flex; justify-content: flex-start; width: 60%;
                     align-items: baseline; gap: 9px; margin-top: 2ex">
-          <div><strong>Paper:</strong></div>
+          <div style="min-width: 5.5em; text-align: right"><strong>Paper:</strong></div>
           <div><a href="{{software.paper_url}}">{{software.paper_title}}</a></div>
         </div>
       {%- endif %}
